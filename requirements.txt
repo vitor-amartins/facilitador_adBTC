@@ -7,4 +7,4 @@ PyScreeze==0.1.22
 python-decouple==3.1
 PyTweening==1.0.3
 selenium==3.141.0
-urllib3==1.25.3
+urllib3==1.26.5
